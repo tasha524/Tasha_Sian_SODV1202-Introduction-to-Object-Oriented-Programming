@@ -1,0 +1,14 @@
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\bin\Debug\net10.0\Tasha_Sian_FinalProject.exe
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\bin\Debug\net10.0\Tasha_Sian_FinalProject.deps.json
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\bin\Debug\net10.0\Tasha_Sian_FinalProject.runtimeconfig.json
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\bin\Debug\net10.0\Tasha_Sian_FinalProject.dll
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\bin\Debug\net10.0\Tasha_Sian_FinalProject.pdb
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\obj\Debug\net10.0\Tasha_Sian_FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\obj\Debug\net10.0\Tasha_Sian_FinalProject.AssemblyInfoInputs.cache
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\obj\Debug\net10.0\Tasha_Sian_FinalProject.AssemblyInfo.cs
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\obj\Debug\net10.0\Tasha_Sian_FinalProject.csproj.CoreCompileInputs.cache
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\obj\Debug\net10.0\Tasha_Sian_FinalProject.dll
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\obj\Debug\net10.0\refint\Tasha_Sian_FinalProject.dll
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\obj\Debug\net10.0\Tasha_Sian_FinalProject.pdb
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\obj\Debug\net10.0\Tasha_Sian_FinalProject.genruntimeconfig.cache
+E:\Bow Valley\TERM 2\SODV1202 Introduction to Object-Oriented Programming\Final Project\Tasha_Sian_FinalProject\Tasha_Sian_FinalProject\obj\Debug\net10.0\ref\Tasha_Sian_FinalProject.dll
